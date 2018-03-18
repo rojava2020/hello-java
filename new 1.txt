@@ -1,0 +1,6 @@
+switch (status){
+cuse 0 : x=5;
+  break;
+case 1 : x=7;
+  break;
+
